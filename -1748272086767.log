@@ -1,0 +1,143 @@
+VM5:5 Electron preload.js loaded, setting up contextBridge for electronAPI
+react-dom.development.js:29840 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtoolsYou might need to use a local HTTP server (instead of file://): https://reactjs.org/link/react-devtools-faq
+index.js:24 "shadow*" style props are deprecated. Use "boxShadow".
+warnOnce @ index.js:24
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+VM4 sandbox_bundle:2 Electron Security Warning (Insecure Content-Security-Policy) This renderer process has either no Content Security
+  Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+  this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+warnAboutInsecureCSP @ VM4 sandbox_bundle:2
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+Show 1 more frame
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+(anonymous) @ index.js:55
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19226
+beginWork @ react-dom.development.js:21636
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26560
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performSyncWorkOnRoot @ react-dom.development.js:26085
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25651
+Show 12 more frames
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+(anonymous) @ index.js:55
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19233
+beginWork @ react-dom.development.js:21636
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26560
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performSyncWorkOnRoot @ react-dom.development.js:26085
+flushSyncCallbacks @ react-dom.development.js:12042
+(anonymous) @ react-dom.development.js:25651
+Show 12 more frames
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+(anonymous) @ index.js:55
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19226
+beginWork @ react-dom.development.js:21636
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26560
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+Show 13 more frames
+Show less
+index.js:57 Unexpected text node: . A text node cannot be a child of a <View>.
+(anonymous) @ index.js:57
+(anonymous) @ index.js:55
+renderWithHooks @ react-dom.development.js:16305
+updateForwardRef @ react-dom.development.js:19233
+beginWork @ react-dom.development.js:21636
+beginWork$1 @ react-dom.development.js:27426
+performUnitOfWork @ react-dom.development.js:26560
+workLoopSync @ react-dom.development.js:26466
+renderRootSync @ react-dom.development.js:26434
+performConcurrentWorkOnRoot @ react-dom.development.js:25738
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533
+Show 13 more frames
+Show less

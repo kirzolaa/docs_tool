@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+bundle.js
+*.bundle.js
+
+# Environment variables
+.env
+*.env
+.env.*
+!/.env.example
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Chat history
+chat_history/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+
+mctdh/
+changelog
+!doc/tree.log
+doc/
+bin/
+elk_inputs/
+finputs/
+source/
+object/
+install/
+operators/
+
+# Do not ignore the docs_tool directory
+!docs_tool
+!docs_tool/
