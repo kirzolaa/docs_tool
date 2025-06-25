@@ -22,7 +22,12 @@ async function handleSearchQuery(query) {
     }
 
     try {
-        const results = await performSearch(query, rootDir, [docsToolDir]);
+        const results = await performSearch({
+            query,
+            baseRootDir: rootDir,
+            exclusions: [docsToolDir],
+            targetExtensions: ['.html', '.htm', '.tex', '.inp', '.op', '.txt', '.md', '.pdf']
+        });
         console.log(`Found ${results.length} results for "${query}":`);
         results.forEach(result => {
             console.log(`  - ${result.relativePath}`);

@@ -51,3 +51,4 @@ operators/
 # Do not ignore the docs_tool directory
 !docs_tool
 !docs_tool/
+.venv

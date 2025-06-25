@@ -1,0 +1,199 @@
+INFO   - main args=/usr/bin/engauge /home/zoltan/MCTDH/mctdh86.8/doc/guide/include/analysis.tex
+INFO   - MainWindow::MainWindow curDir=/home/zoltan/MCTDH/mctdh86.8/docs_tool
+INFO   - MainWindow::setCurrentFile
+INFO   - MainWindow::updateWindowTitle
+INFO   - CreateFacade::create
+INFO   - CreateIcons::create
+INFO   - CreateCentralWidget::create
+INFO   - CreateActions::create
+INFO   - CreateActions::createFile
+INFO   - CreateActions::createEdit
+INFO   - CreateActions::createDigitize
+INFO   - CreateActions::createView
+INFO   - CreateActions::createSettings
+INFO   - CreateActions::createHelp
+INFO   - CreateStatusBar::create
+INFO   - CreateMenus::create
+INFO   - MainWindow::updateRecentFileList
+INFO   - CreateToolBars::create
+INFO   - CreateDockableWidgets::create
+INFO   - FittingWindow::resizeTable
+INFO   - GeometryWindow::loadStrategies
+INFO   - GeometryWindow::initializeHeader
+INFO   - GeometryWindow::resizeTable
+INFO   - CreateHelpWindow::create
+INFO   - HelpBrowser::loadResource scheme=qthelp
+INFO   - CreateTutorial::create
+INFO   - TutorialDlg::createSceneAndView
+INFO   - TutorialStateContext::createStates
+INFO   - TutorialStateChecklistWizardLines::TutorialStateChecklistWizardLines
+INFO   - TutorialStateChecklistWizardPoints::TutorialStateChecklistWizardPoints
+INFO   - TutorialStateColorFilter::TutorialStateColorFilter
+INFO   - TutorialStateCurveSelection::TutorialStateCurveSelection
+INFO   - TutorialStateCurveType::TutorialStateCurveType
+INFO   - TutorialStateIntroduction::TutorialStateIntroduction
+INFO   - TutorialStatePointMatch::TutorialStatePointMatch
+INFO   - TutorialStateSegmentFill::TutorialStateSegmentFill
+INFO   - TutorialStateContext::requestImmediateStateTransition
+INFO   - TutorialStateIntroduction::begin ()
+INFO   - TutorialStateContext::createTimer
+INFO   - CreateScene::create
+INFO   - CreateNetwork::create
+INFO   - CreateLoadImage::create
+INFO   - CreateStateContexts::create
+INFO   - BackgroundStateContext::BackgroundStateContext
+INFO   - BackgroundStateContext::requestStateTransition
+INFO   - BackgroundStateContext::completeRequestedStateTransitionIfExists
+INFO   - BackgroundStateUnloaded::begin
+INFO   - DigitizeStateEmpty::begin
+INFO   - ViewPointStyle::unsetPointStyle
+INFO   - MainWindow::updateDigitizeStateIfSoftwareTriggered
+INFO   - CreateSettingsDialogs::create
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsCoords
+INFO   - DlgSettingsCoords::DlgSettingsCoords
+INFO   - DlgSettingsCoords::createSubPanel
+INFO   - DlgSettingsCoords::createGroupCoordsType
+INFO   - DlgSettingsCoords::createGroupXTheta
+INFO   - DlgSettingsCoords::createGroupYRadius
+INFO   - DlgSettingsCoords::createDateTime
+INFO   - DlgSettingsCoords::createPreview
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsCurveList
+INFO   - DlgSettingsCurveList::DlgSettingsCurveList
+INFO   - DlgSettingsCurveList::createSubPanel
+INFO   - DlgSettingsCurveList::createListCurves
+INFO   - DlgSettingsCurveList::createButtons
+INFO   - DlgSettingsCurveList::createOptionalSaveDefault
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsCurveProperties
+INFO   - DlgSettingsCurveProperties::DlgSettingsCurveProperties
+INFO   - DlgSettingsCurveProperties::createSubPanel
+INFO   - DlgSettingsCurveProperties::createCurveName
+INFO   - DlgSettingsCurveProperties::createPoint
+INFO   - DlgSettingsCurveProperties::createLine
+INFO   - DlgSettingsCurveProperties::createPreview
+INFO   - DlgSettingsCurveProperties::createOptionalSaveDefault
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsDigitizeCurve
+INFO   - DlgSettingsDigitizeCurve::DlgSettingsDigitizeCurve
+INFO   - DlgSettingsDigitizeCurve::createSubPanel
+INFO   - DlgSettingsDigitizeCurve::createControls
+INFO   - DlgSettingsDigitizeCurve::createPreview
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsExportFormat
+INFO   - DlgSettingsExportFormat::DlgSettingsExportFormat
+INFO   - DlgSettingsExportFormat::createSubPanel
+INFO   - DlgSettingsExportFormat::createCurveSelection
+INFO   - DlgSettingsExportFormat::createTabWidget
+INFO   - DlgSettingsExportFormat::createFunctionsPointsSelection
+INFO   - DlgSettingsExportFormat::createRelationsPointsSelection
+INFO   - DlgSettingsExportFormat::createDelimiters
+INFO   - DlgSettingsExportFormat::createHeader
+INFO   - DlgSettingsExportFormat::createXLabel
+INFO   - DlgSettingsExportFormat::createFileLayout
+INFO   - DlgSettingsExportFormat::createPreview
+INFO   - DlgSettingsExportFormat::createOptionalSaveDefault
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsColorFilter
+INFO   - DlgSettingsColorFilter::DlgSettingsColorFilter
+INFO   - DlgSettingsColorFilter::createSubPanel
+INFO   - DlgSettingsColorFilter::createControls
+INFO   - DlgSettingsColorFilter::createProfileAndScale
+INFO   - DlgSettingsColorFilter::createPreview
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsAxesChecker
+INFO   - DlgSettingsAxesChecker::DlgSettingsAxesChecker
+INFO   - DlgSettingsAxesChecker::createSubPanel
+INFO   - DlgSettingsAxesChecker::createControls
+INFO   - DlgSettingsAxesChecker::createPreview
+INFO   - DlgSettingsAxesChecker::createPoints
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsGridDisplay
+INFO   - DlgSettingsGridDisplay::DlgSettingsGridDisplay
+INFO   - DlgSettingsGridDisplay::createSubPanel
+INFO   - DlgSettingsGridDisplay::createDisplayGridLinesX
+INFO   - DlgSettingsGridDisplay::createDisplayGridLinesY
+INFO   - DlgSettingsGridDisplay::createDisplayCommon
+INFO   - DlgSettingsGridDisplay::createPreview
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsGridRemoval
+INFO   - DlgSettingsGridRemoval::DlgSettingsGridRemoval
+INFO   - DlgSettingsGridRemoval::createSubPanel
+INFO   - DlgSettingsGridRemoval::createRemoveGridLines
+INFO   - DlgSettingsGridRemoval::createRemoveGridLinesX
+INFO   - DlgSettingsGridRemoval::createRemoveGridLinesY
+INFO   - DlgSettingsGridRemoval::createPreview
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsPointMatch
+INFO   - DlgSettingsPointMatch::DlgSettingsPointMatch
+INFO   - DlgSettingsPointMatch::createSubPanel
+INFO   - DlgSettingsPointMatch::createControls
+INFO   - DlgSettingsPointMatch::createPreview
+INFO   - DlgSettingsPointMatch::createTemplate
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsSegments
+INFO   - DlgSettingsSegments::DlgSettingsSegments
+INFO   - DlgSettingsSegments::createSubPanel
+INFO   - DlgSettingsSegments::createControls
+INFO   - DlgSettingsSegments::createPreview
+INFO   - DlgSettingsSegments::createPreviewImage
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsGeneral
+INFO   - DlgSettingsGeneral::DlgSettingsGeneral
+INFO   - DlgSettingsGeneral::createSubPanel
+INFO   - DlgSettingsGeneral::createControls
+INFO   - DlgSettingsGeneral::createOptionalSaveDefault
+INFO   - DlgSettingsAbstractBase::DlgSettingsAbstractBase name=DlgSettingsMainWindow
+INFO   - DlgSettingsMainWindow::DlgSettingsMainWindow
+INFO   - DlgSettingsMainWindow::createSubPanel
+INFO   - DlgSettingsMainWindow::createControls
+INFO   - DlgSettingsMainWindow::createOptionalSaveDefault
+INFO   - CreateCommandStackShadow::create
+INFO   - CmdStackShadow::CmdStackShadow
+INFO   - CreateZoomMaps::create
+INFO   - MainWindow::updateControls selectedItems=0
+INFO   - MainWindow::slotViewToolBarChecklistGuide
+INFO   - MainWindow::slotCmbBackground
+INFO   - BackgroundStateContext::setBackgroundImage background=Filtered
+INFO   - BackgroundStateContext::requestStateTransition
+INFO   - BackgroundStateContext::completeRequestedStateTransitionIfExists
+INFO   - BackgroundStateUnloaded::end
+INFO   - BackgroundStateCurve::begin
+INFO   - MainWindow::slotViewZoom
+INFO   - MainWindow::slotViewZoomFactor
+INFO   - StatusBar::slotZoom zoom=12
+INFO   - MainWindow::updateSettingsMainWindow
+INFO   - MainWindow::updateWindowTitle
+INFO   - MainWindow::updateFittingWindow
+INFO   - MainWindow::updateGeometryWindow
+INFO   - MainWindow::setCurrentFile
+INFO   - MainWindow::updateWindowTitle
+INFO   - MainWindow::showEvent files=/home/zoltan/MCTDH/mctdh86.8/doc/guide/include/analysis.tex
+INFO   - MainWindow::slotLoadStartupFiles
+INFO   - LoadFileInfo::loadsAsDigFile
+INFO   - CoordSystemContext::CoordSystemContext
+INFO   - Document::Document fileName=/home/zoltan/MCTDH/mctdh86.8/doc/guide/include/analysis.tex
+INFO   - Document::bytesIndicatePreVersion6
+INFO   - Document::versionFromFile
+INFO   - Document::loadVersion6
+INFO   - CoordSystemContext::addCoordSystems numberToAdd=1
+INFO   - CoordSystem::CoordSystem
+INFO   - CoordSystemContext::~CoordSystemContext
+INFO   - MainWindow::fileImport fileName=/home/zoltan/MCTDH/mctdh86.8/doc/guide/include/analysis.tex curDir=/home/zoltan importType=0
+INFO   - Jpeg2000::load filename=/home/zoltan/MCTDH/mctdh86.8/doc/guide/include/analysis.tex
+ERROR  - Jpeg2000::load encountered error creating decoding stream
+INFO   - DlgSettingsAxesChecker::~DlgSettingsAxesChecker
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsAxesChecker
+INFO   - DlgSettingsColorFilter::~DlgSettingsColorFilter
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsColorFilter
+INFO   - DlgSettingsCoords::~DlgSettingsCoords
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsCoords
+INFO   - DlgSettingsCurveList::~DlgSettingsCurveList
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsCurveList
+INFO   - DlgSettingsCurveProperties::~DlgSettingsCurveProperties
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsCurveProperties
+INFO   - DlgSettingsDigitizeCurve::~DlgSettingsDigitizeCurve
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsDigitizeCurve
+INFO   - DlgSettingsExportFormat::~DlgSettingsExportFormat
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsExportFormat
+INFO   - DlgSettingsGeneral::~DlgSettingsGeneral
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsGeneral
+INFO   - DlgSettingsGridDisplay::~DlgSettingsGridDisplay
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsGridDisplay
+INFO   - DlgSettingsGridRemoval::~DlgSettingsGridRemoval
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsGridRemoval
+INFO   - DlgSettingsMainWindow::~DlgSettingsMainWindow
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsMainWindow
+INFO   - DlgSettingsPointMatch::~DlgSettingsPointMatch
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsPointMatch
+INFO   - DlgSettingsSegments::~DlgSettingsSegments
+INFO   - DlgSettingsAbstractBase::~DlgSettingsAbstractBase name=DlgSettingsSegments
